@@ -65,7 +65,6 @@ When it comes to extending the problem in a stochastic setting, we would have to
 
 ${\displaystyle \min _{u}\mathbb {E} \left\{\int _{0}^{T}C(t,X_{t},u_{t})\,dt+D(X_{T})\right\}}$
 
-
 with:
 
 - ${\displaystyle (X_{t})_{t\in [0,T]}}$ the stochastic process to optimize and
