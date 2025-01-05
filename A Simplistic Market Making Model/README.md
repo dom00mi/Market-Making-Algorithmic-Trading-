@@ -19,6 +19,9 @@ Basic reinforcement learning is modeled as a Markov decision process:
 
 - ${\displaystyle R_{a}(s,s')}$, the immediate reward after transition from ${\displaystyle s}$ to ${\displaystyle s'}$ under action ${\displaystyle a}$.
 
+  
+![newplot (13)](https://github.com/user-attachments/assets/15b5ff52-9ceb-4cac-b373-f9f053147d67)
+
 
 If you would like to see the full code, please go to the ipynb file!
 
