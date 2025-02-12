@@ -23,5 +23,10 @@ Basic reinforcement learning is modeled as a Markov decision process:
 ![newplot (13)](https://github.com/user-attachments/assets/15b5ff52-9ceb-4cac-b373-f9f053147d67)
 
 
+![simulation](https://github.com/user-attachments/assets/423ed999-c427-46f1-be3a-40069f83ece6)
+
+
+
+
 If you would like to see the full code, please go to the ipynb file!
 
